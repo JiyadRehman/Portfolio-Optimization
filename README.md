@@ -1,7 +1,7 @@
 # Portfolio-Optimization
 Developed an optimized portfolio crypto currencies which would minimize risk and maximize the profit.
 
-This is a group project for a graduate course.
+This is a group project for a graduate course. The other two members equally contributed on this project.
 
 The data was extracted from a website the details of which are shared in R-code.
 After the data extracting the data was stored in a CSV file for further analysis and then that file was referred throughout.
